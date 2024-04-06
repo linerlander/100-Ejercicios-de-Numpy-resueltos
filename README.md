@@ -1,2 +1,2 @@
-# 100-Ejercicios-de-Numpy-resueltos
 # 100 Ejercicios en Numpy
+100 ejercicios resueltos en Numpy by LinerLander
